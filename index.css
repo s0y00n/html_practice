@@ -67,6 +67,32 @@ body{
     color: white;
 }
 
+.option{
+    display: flex;
+    width: 73%;
+    height: 20px;
+    justify-content: space-between;
+    margin-top: 5px;
+    padding: 0;
+    
+}
+
+#loginStable{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 2px solid grey;
+}
+
+.stableContainer{
+    display: flex;
+    align-items: center;
+    margin: 5px 0;
+    height: 100%;
+
+}
+
+
 form{
     width: 100%;
     display: flex;
